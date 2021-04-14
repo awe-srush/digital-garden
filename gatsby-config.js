@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/foam-digital-garden",
+  pathPrefix: "/digital-garden",
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
